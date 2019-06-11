@@ -1,0 +1,32 @@
+kitap adi= gözlerini sýmsýký kapat ,yazar= john verdon,tarih=2012
+
+kitap adi=kürk mantolu madonna, yazar= sabahhattin ali, tarih=1943
+
+kitap adi=dönüþüm, yazar= franz kafka, tarih=1915
+
+kitap adi= geçmiþe yolculuk , yazar= stefan zweig, tarih= 1976
+
+kitap adi= simyacý, yazar= paulo coelho, tarih= 1996
+
+kitap adi= zaman makinesi, yazar= h.g. wells, tarih=2014
+
+kitap adi= kýrmýzý saçlý kadýn, yazar=orhan pamuk, tarih=2016
+
+kitap adi=çavdar tarlasýnda çocuklar, yazar= j.d. salinger, tarih=1951
+
+kitap adi=kafes, yazar=josh malerman, tarih=2018
+
+kitap adi=hayvan çiftliði, yazar=george orwell, tarih= 1954
+
+kitap adi=otomatik portakal, yazar=anthony burgess, tarih=1962
+
+kitap adi=kýþ günlüðü, yazar=paul auster, tarih= 2012
+
+kitap adi=viþne bahçesi, yazar=anton çehov, tarih=1904
+
+
+
+
+
+
+
